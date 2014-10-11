@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<customers>
+	<customer>
+		<id>1</id>
+		<name>Henrik Møller Rasmussen</name>
+		<email>hmr@shopbox.com</email>
+	</customer>
+	<customer>
+		<id>2</id>
+		<name>Christian Zigler</name>
+		<email>cz@shopbox.com</email>
+	</customer>
+</customers>
