@@ -3,7 +3,7 @@ invoices_list
 
 PHP web app for showing invoices with all details from sql database. Technologies: PHP, HTML, CSS, SQL
 
-##Invoices list
+###Invoices list
 After running app, app is connecting to mySQL and showing all invoices with restricted informations.
 
 ![Alt text](https://raw.githubusercontent.com/krunogr/invoices_list/master/assets/screenshots/invoices_list.JPG "Invoices list")
