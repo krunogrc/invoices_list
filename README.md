@@ -11,5 +11,6 @@ After running app, app is connecting to mySQL and showing all invoices with rest
 ###Invoices details
 
 When user push "Details" then app showing all informations in separate view. All informations are coming from mySQL database.
+
 ![Alt text](https://raw.githubusercontent.com/krunogr/invoices_list/master/assets/screenshots/invoices_details.JPG "Invoices details")
 
