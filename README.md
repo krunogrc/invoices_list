@@ -2,4 +2,7 @@ invoices_list
 =============
 
 PHP web app for showing invoices with all details from sql database. Technologies: PHP, HTML, CSS, SQL
-![alt tag](http://www.net.hr/2013/08/20/0382007.53.jpg)
+![Alt text]https://raw.githubusercontent.com/krunogr/invoices_list/master/assets/screenshots/invoices_list.JPG "Optional title")
+
+
+![Alt text]https://raw.githubusercontent.com/krunogr/invoices_list/master/assets/screenshots/invoices_details.JPG "Optional title")
